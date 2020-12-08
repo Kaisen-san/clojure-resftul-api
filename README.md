@@ -2,6 +2,12 @@
 
 Projeto desenvolvido em [Clojure](https://clojure.org) utilizando o conjunto de bibliotecas do [Pedestal](http://pedestal.io).
 
+## Objetivo
+
+O projeto é uma API de uma lista de contatos telefônicos onde é possível guardar os números de todas as pessoas que desejar.
+
+Cada contato telefônico deve possuir um nome único, pois este é usado como identificador na lista.
+
 ## Integrantes
 
 Nome | RA | GitHub
